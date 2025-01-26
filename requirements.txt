@@ -1,0 +1,8 @@
+pandas
+requests
+matplotlib
+seaborn
+
+
+
+# video link : https://www.loom.com/share/ff8ae1ee6c3b4f7d80238e4bf0ee078f?sid=84049f35-c78a-42a9-9cf3-f45d72d8f3a4
